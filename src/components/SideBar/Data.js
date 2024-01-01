@@ -18,7 +18,7 @@ export const data = [
     img: "/logo192.png",
   },
   {
-    name: "Zarnain Alam",
+    name: "Mohammed Umair",
     img: "/assests/logo.webp",
     onClick:"onClickProp",
     
